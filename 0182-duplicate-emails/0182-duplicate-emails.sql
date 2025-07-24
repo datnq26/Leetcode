@@ -1,0 +1,1 @@
+select p1.email as Email from Person as p1 left join Person as p2 on p1.email = p2.email where p1.id != p2.id group by p1.email;
