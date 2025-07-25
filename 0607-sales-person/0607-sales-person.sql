@@ -1,0 +1,1 @@
+select name from SalesPerson where sales_id not in (select s.sales_id from SalesPerson as s left join Orders o on s.sales_id = o.sales_id full join Company as c on c.com_id = o.com_id where c.name = 'RED' and s.sales_id is not null);
