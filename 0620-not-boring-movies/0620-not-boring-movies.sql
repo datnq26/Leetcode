@@ -1,0 +1,1 @@
+select * from Cinema as c where c.description != 'boring' and mod(id, 2) != 0 order by rating desc;
