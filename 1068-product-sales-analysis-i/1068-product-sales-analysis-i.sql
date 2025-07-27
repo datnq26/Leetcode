@@ -1,0 +1,1 @@
+select product_name, year, sum(price) as price from Sales as s join Product as p on s.product_id = p.product_id group by product_name, year, sale_id;
