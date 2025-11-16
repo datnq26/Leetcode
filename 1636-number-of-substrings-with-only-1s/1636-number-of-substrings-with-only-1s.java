@@ -1,7 +1,7 @@
 class Solution {
     public int numSub(String s) {
         int mod = 1_000_000_007;
-        long count = 0;  // dùng long để tránh tràn số
+        long count = 0;
         int consecutive = 0;
 
         for (int i = 0; i < s.length(); i++) {
