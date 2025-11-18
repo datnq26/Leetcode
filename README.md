@@ -14,5 +14,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0717-1-bit-and-2-bit-characters](https://github.com/datnq26/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/datnq26/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 <!---LeetCode Topics End-->
