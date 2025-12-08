@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1636-number-of-substrings-with-only-1s](https://github.com/datnq26/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1925-count-square-sum-triples](https://github.com/datnq26/Leetcode/tree/master/1925-count-square-sum-triples) |
 ## String
 |  |
 | ------- |
@@ -16,4 +17,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/datnq26/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/datnq26/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/datnq26/Leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
