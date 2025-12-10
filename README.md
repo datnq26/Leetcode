@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1636-number-of-substrings-with-only-1s](https://github.com/datnq26/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/datnq26/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/datnq26/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/datnq26/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/datnq26/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/datnq26/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/datnq26/Leetcode/tree/master/3583-count-special-triplets) |
 ## Enumeration
 |  |
@@ -30,4 +32,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3583-count-special-triplets](https://github.com/datnq26/Leetcode/tree/master/3583-count-special-triplets) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/datnq26/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/datnq26/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
