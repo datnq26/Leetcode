@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/datnq26/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/datnq26/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [3531-count-covered-buildings](https://github.com/datnq26/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/datnq26/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/datnq26/Leetcode/tree/master/3583-count-special-triplets) |
 ## Enumeration
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [3531-count-covered-buildings](https://github.com/datnq26/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/datnq26/Leetcode/tree/master/3583-count-special-triplets) |
 ## Counting
 |  |
@@ -40,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/datnq26/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Sorting
+|  |
+| ------- |
+| [3531-count-covered-buildings](https://github.com/datnq26/Leetcode/tree/master/3531-count-covered-buildings) |
 <!---LeetCode Topics End-->
