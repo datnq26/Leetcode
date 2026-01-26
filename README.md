@@ -54,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/datnq26/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/datnq26/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
