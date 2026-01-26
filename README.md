@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/datnq26/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [1200-minimum-absolute-difference](https://github.com/datnq26/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/datnq26/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/datnq26/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3531-count-covered-buildings](https://github.com/datnq26/Leetcode/tree/master/3531-count-covered-buildings) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/datnq26/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/datnq26/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3531-count-covered-buildings](https://github.com/datnq26/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Sliding Window
