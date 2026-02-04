@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/datnq26/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/datnq26/Leetcode/tree/master/3583-count-special-triplets) |
 | [3637-trionic-array-i](https://github.com/datnq26/Leetcode/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/datnq26/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/datnq26/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Enumeration
 |  |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [3640-trionic-array-ii](https://github.com/datnq26/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/datnq26/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
 |  |
