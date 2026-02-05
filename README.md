@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/datnq26/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/datnq26/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/datnq26/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3379-transformed-array](https://github.com/datnq26/Leetcode/tree/master/3379-transformed-array) |
 | [3446-sort-matrix-by-diagonals](https://github.com/datnq26/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3531-count-covered-buildings](https://github.com/datnq26/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/datnq26/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -97,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3446-sort-matrix-by-diagonals](https://github.com/datnq26/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/datnq26/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/datnq26/Leetcode/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
